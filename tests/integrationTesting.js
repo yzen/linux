@@ -147,7 +147,7 @@ var testDefs = [{
                                 "name": "en-westindies"
                             }
                         },
-                        "uppercase": { "average-pitch": 5.6 },
+                        "uppercase": { "average-pitch": 7 },
                         "system": { "established": false },
                         "hyperlink": { "established": false }
                     }
